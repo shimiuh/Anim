@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.shimi.androidplus.test" >
+    package="com.adroid.anim.test" >
 
     <uses-sdk
         android:minSdkVersion="8"
@@ -10,8 +10,8 @@
         android:name="android.test.InstrumentationTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.shimi.androidplus.test"
-        android:targetPackage="com.shimi.androidplus.test" />
+        android:label="Tests for com.adroid.anim.test"
+        android:targetPackage="com.adroid.anim.test" />
 
     <application
         android:allowBackup="true"
